@@ -1,0 +1,7 @@
+{
+  "name": "inclass4",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
